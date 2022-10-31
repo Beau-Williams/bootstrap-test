@@ -1,0 +1,21 @@
+[
+    {
+        "item": "apple",
+        "price": 1.23,
+        "qty": 10,
+        "dept": "produce"
+    },
+    {
+        "item": "steak",
+        "price": 5.99,
+        "qty": 23,
+        "dept": "meat"
+    },
+    {
+        "item": "pizza",
+        "price": 6.25,
+        "qty": 20,
+        "dept": "frozen"
+    }
+
+]
